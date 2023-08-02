@@ -9,3 +9,66 @@
 2023-08-02T20:28:23.251Z [delivery-api] info: API started read
 2023-08-02T20:36:01.129Z [delivery-api] info: API started read
 2023-08-02T20:36:39.209Z [delivery-api] info: API started read
+2023-08-02T21:56:53.474Z [delivery-api] info: API started read
+2023-08-02T21:56:57.090Z [delivery-api] error: PUT /pedido - Formato invalido, cliente valor e produto são obrigatorios
+2023-08-02T21:57:15.414Z [delivery-api] info: API started read
+2023-08-02T21:57:18.214Z [delivery-api] info: API started read
+2023-08-02T21:57:19.831Z [delivery-api] error: PUT /pedido - Dlobal is not defined
+2023-08-02T21:57:43.273Z [delivery-api] info: API started read
+2023-08-02T21:57:54.120Z [delivery-api] info: API started read
+2023-08-02T21:57:57.824Z [delivery-api] error: PUT /pedido - Registro não encontrado
+2023-08-02T21:58:30.458Z [delivery-api] info: PUT /pedido - {"id":501,"cliente":"Gabriel Moreira","produto":"Pizza Moda","valor":29,"entregue":true}
+2023-08-02T21:58:31.058Z [delivery-api] info: API started read
+2023-08-02T21:58:55.616Z [delivery-api] info: API started read
+2023-08-02T21:59:04.866Z [delivery-api] info: PUT /pedido - {"id":501,"cliente":"Gabriel Moreira","produto":"Pizza Moda","valor":29,"entregue":true}
+2023-08-02T21:59:05.469Z [delivery-api] info: API started read
+2023-08-02T21:59:29.440Z [delivery-api] info: API started read
+2023-08-02T21:59:42.117Z [delivery-api] info: API started read
+2023-08-02T21:59:52.431Z [delivery-api] info: PUT /pedido - {"id":501,"cliente":"Gabriel Moreira","produto":"Pizza Moda","valor":29,"entregue":true}
+2023-08-02T21:59:53.036Z [delivery-api] info: API started read
+2023-08-02T21:59:59.713Z [delivery-api] info: API started read
+2023-08-02T22:05:13.905Z [delivery-api] info: API started read
+2023-08-02T22:05:20.344Z [delivery-api] info: API started read
+2023-08-02T22:05:24.965Z [delivery-api] info: API started read
+2023-08-02T22:05:37.116Z [delivery-api] info: API started read
+2023-08-02T22:05:47.840Z [delivery-api] info: API started read
+2023-08-02T22:05:52.174Z [delivery-api] info: API started read
+2023-08-02T22:06:11.316Z [delivery-api] info: API started read
+2023-08-02T22:06:16.121Z [delivery-api] info: API started read
+2023-08-02T22:06:20.235Z [delivery-api] info: API started read
+2023-08-02T22:06:22.928Z [delivery-api] info: API started read
+2023-08-02T22:06:28.049Z [delivery-api] info: API started read
+2023-08-02T22:06:30.679Z [delivery-api] info: API started read
+2023-08-02T22:07:47.555Z [delivery-api] info: API started read
+2023-08-02T22:07:55.051Z [delivery-api] info: API started read
+2023-08-02T22:08:00.356Z [delivery-api] info: API started read
+2023-08-02T22:08:02.942Z [delivery-api] info: API started read
+2023-08-02T22:09:33.748Z [delivery-api] info: PATCH /pedido/updateBalance - {"id":501,"entregue":false}
+2023-08-02T22:09:34.332Z [delivery-api] info: API started read
+2023-08-02T22:09:47.444Z [delivery-api] info: API started read
+2023-08-02T22:10:12.904Z [delivery-api] info: API started read
+2023-08-02T22:10:14.196Z [delivery-api] info: API started read
+2023-08-02T22:10:15.998Z [delivery-api] info: PATCH /pedido/updateBalance - {"id":501,"entregue":false}
+2023-08-02T22:10:16.593Z [delivery-api] info: API started read
+2023-08-02T22:10:23.977Z [delivery-api] info: API started read
+2023-08-02T22:11:13.594Z [delivery-api] info: API started read
+2023-08-02T22:11:15.106Z [delivery-api] info: API started read
+2023-08-02T22:11:41.794Z [delivery-api] info: API started read
+2023-08-02T22:12:56.209Z [delivery-api] info: DELETE /pedido/:id - 501
+2023-08-02T22:12:56.718Z [delivery-api] info: API started read
+2023-08-02T22:13:10.939Z [delivery-api] info: API started read
+2023-08-02T22:13:13.501Z [delivery-api] info: API started read
+2023-08-02T22:13:16.012Z [delivery-api] info: DELETE /pedido/:id - 501
+2023-08-02T22:13:16.627Z [delivery-api] info: API started read
+2023-08-02T22:13:22.279Z [delivery-api] info: API started read
+2023-08-02T22:13:39.688Z [delivery-api] info: API started read
+2023-08-02T22:13:44.193Z [delivery-api] info: API started read
+2023-08-02T22:13:45.546Z [delivery-api] info: API started read
+2023-08-02T22:13:47.351Z [delivery-api] info: API started read
+2023-08-02T22:13:48.821Z [delivery-api] info: API started read
+2023-08-02T22:14:05.866Z [delivery-api] info: API started read
+2023-08-02T22:14:07.326Z [delivery-api] info: API started read
+2023-08-02T22:14:21.002Z [delivery-api] info: API started read
+2023-08-02T22:16:28.788Z [delivery-api] info: API started read
+2023-08-02T22:16:44.980Z [delivery-api] info: API started read
+2023-08-02T22:17:47.898Z [delivery-api] info: GET /pedido/:id 

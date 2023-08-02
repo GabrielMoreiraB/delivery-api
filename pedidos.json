@@ -3993,14 +3993,6 @@
       "valor": 32,
       "entregue": true,
       "timestamp": "2021-05-02T19:48:09.767Z"
-    },
-    {
-      "id": 501,
-      "cliente": "Gabriel Moreira",
-      "produto": "Pizza Moda",
-      "valor": 29,
-      "entregue": false,
-      "timestamp": "2023-08-02T20:28:22.817Z"
     }
   ]
 }

@@ -1,0 +1,11 @@
+2023-08-02T20:22:01.677Z [delivery-api] info: API started read
+2023-08-02T20:25:17.289Z [delivery-api] info: POST /account - {"id":501,"cliente":"Gabriel Moreira","produto":"Pizza Moda","valor":29,"entregue":false}
+2023-08-02T20:25:17.713Z [delivery-api] info: API started read
+2023-08-02T20:25:40.639Z [delivery-api] info: API started read
+2023-08-02T20:27:53.950Z [delivery-api] info: API started read
+2023-08-02T20:28:14.543Z [delivery-api] info: API started read
+2023-08-02T20:28:17.971Z [delivery-api] info: API started read
+2023-08-02T20:28:22.824Z [delivery-api] info: POST /account - {"id":501,"cliente":"Gabriel Moreira","produto":"Pizza Moda","valor":29,"entregue":false,"timestamp":"2023-08-02T20:28:22.817Z"}
+2023-08-02T20:28:23.251Z [delivery-api] info: API started read
+2023-08-02T20:36:01.129Z [delivery-api] info: API started read
+2023-08-02T20:36:39.209Z [delivery-api] info: API started read

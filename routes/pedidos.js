@@ -111,6 +111,26 @@ router.get('/:id', async (req, res, next) => {
   }
 });
 
+router.post('/totalCliente', async (req, res, next) => {
+  try {
+    const data = JSON.parse(await readFile(global.fileName));
+    const cliente = req.body;
+    if(!cliente.cliente  || cliente.cliente === null) {
+      throw new Error("Formato invalido, cliente é obrigatorio")
+    }
+    const totalPedido = data.pedidos.reduce((total, pedido) => {
+      if(pedido.cliente === cliente && pedido.entregue){
+        return total + pedido.valor;
+      };
+      return total;
+    }, 0);
+    logger.info(`GET /totalCliente `);
+    res.send(totalPedido);
+  } catch (err) {
+    next(err)
+  }
+});
+
 /* 
 router.get('/', async (req, res, next) => {
   try {

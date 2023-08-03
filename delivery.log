@@ -72,3 +72,59 @@
 2023-08-02T22:16:28.788Z [delivery-api] info: API started read
 2023-08-02T22:16:44.980Z [delivery-api] info: API started read
 2023-08-02T22:17:47.898Z [delivery-api] info: GET /pedido/:id 
+2023-08-03T16:43:51.419Z [delivery-api] info: API started read
+2023-08-03T16:44:12.411Z [delivery-api] info: API started read
+2023-08-03T16:45:04.883Z [delivery-api] info: GET /pedido/:id 
+2023-08-03T16:45:13.081Z [delivery-api] info: GET /pedido/:id 
+2023-08-03T16:45:29.029Z [delivery-api] info: API started read
+2023-08-03T16:45:49.299Z [delivery-api] info: GET /pedido/:cliente 
+2023-08-03T16:45:49.301Z [delivery-api] error: GET /pedido - Invalid status code: 0
+2023-08-03T16:46:03.537Z [delivery-api] info: GET /pedido/:cliente 
+2023-08-03T16:46:03.538Z [delivery-api] error: GET /pedido - Invalid status code: 0
+2023-08-03T16:46:05.348Z [delivery-api] info: GET /pedido/:cliente 
+2023-08-03T16:46:05.349Z [delivery-api] error: GET /pedido - Invalid status code: 0
+2023-08-03T16:54:49.618Z [delivery-api] info: API started read
+2023-08-03T16:54:50.921Z [delivery-api] info: API started read
+2023-08-03T16:54:55.154Z [delivery-api] info: API started read
+2023-08-03T16:54:57.588Z [delivery-api] info: API started read
+2023-08-03T16:55:32.116Z [delivery-api] info: API started read
+2023-08-03T16:55:33.287Z [delivery-api] info: API started read
+2023-08-03T16:55:49.100Z [delivery-api] info: API started read
+2023-08-03T16:55:53.316Z [delivery-api] info: API started read
+2023-08-03T16:56:02.221Z [delivery-api] info: API started read
+2023-08-03T16:56:17.210Z [delivery-api] info: API started read
+2023-08-03T16:56:48.787Z [delivery-api] info: GET /pedido/:id 
+2023-08-03T16:58:58.944Z [delivery-api] info: API started read
+2023-08-03T16:59:00.798Z [delivery-api] info: API started read
+2023-08-03T16:59:05.379Z [delivery-api] info: API started read
+2023-08-03T16:59:41.319Z [delivery-api] info: GET /pedido/:cliente 
+2023-08-03T16:59:41.322Z [delivery-api] error: GET /pedido - Invalid status code: 0
+2023-08-03T17:02:31.888Z [delivery-api] info: API started read
+2023-08-03T17:03:11.110Z [delivery-api] info: API started read
+2023-08-03T17:03:13.707Z [delivery-api] info: API started read
+2023-08-03T17:03:17.582Z [delivery-api] info: API started read
+2023-08-03T17:11:27.383Z [delivery-api] info: API started read
+2023-08-03T17:11:28.953Z [delivery-api] error: POST /pedido - pedido is not defined
+2023-08-03T17:13:28.627Z [delivery-api] info: POST /pedido - {"id":502,"cliente":"Gabriel Moreira","produto":"Pizza Moda","valor":29,"entregue":false,"timestamp":"2023-08-03T17:13:28.626Z"}
+2023-08-03T17:13:29.019Z [delivery-api] info: API started read
+2023-08-03T17:13:44.895Z [delivery-api] error: POST /pedido - pedido is not defined
+2023-08-03T17:13:46.123Z [delivery-api] error: POST /pedido - pedido is not defined
+2023-08-03T17:13:46.667Z [delivery-api] error: POST /pedido - pedido is not defined
+2023-08-03T17:13:47.078Z [delivery-api] error: POST /pedido - pedido is not defined
+2023-08-03T17:13:47.261Z [delivery-api] error: POST /pedido - pedido is not defined
+2023-08-03T17:13:47.443Z [delivery-api] error: POST /pedido - pedido is not defined
+2023-08-03T17:13:47.611Z [delivery-api] error: POST /pedido - pedido is not defined
+2023-08-03T17:13:47.773Z [delivery-api] error: POST /pedido - pedido is not defined
+2023-08-03T17:13:47.954Z [delivery-api] error: POST /pedido - pedido is not defined
+2023-08-03T17:13:48.100Z [delivery-api] error: POST /pedido - pedido is not defined
+2023-08-03T17:14:39.996Z [delivery-api] info: API started read
+2023-08-03T17:14:41.579Z [delivery-api] info: API started read
+2023-08-03T17:15:00.004Z [delivery-api] error: POST /pedido - Cannot read properties of undefined (reading 'reduce')
+2023-08-03T17:15:35.775Z [delivery-api] info: API started read
+2023-08-03T17:16:14.979Z [delivery-api] info: API started read
+2023-08-03T17:16:19.025Z [delivery-api] info: API started read
+2023-08-03T17:16:30.930Z [delivery-api] info: API started read
+2023-08-03T17:16:35.650Z [delivery-api] info: API started read
+2023-08-03T17:16:36.308Z [delivery-api] info: GET /totalCliente 
+2023-08-03T17:16:36.310Z [delivery-api] error: POST /pedido - Invalid status code: 0
+2023-08-03T17:21:32.061Z [delivery-api] info: API started read
